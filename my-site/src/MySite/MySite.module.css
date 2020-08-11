@@ -1,0 +1,14 @@
+.MySite {
+    
+}
+
+.SideBar {
+   left: 0;
+   width: 18%;
+   height: 100%;
+   position: fixed;
+}
+
+.MainContent {
+    margin-left: 18%;
+}
