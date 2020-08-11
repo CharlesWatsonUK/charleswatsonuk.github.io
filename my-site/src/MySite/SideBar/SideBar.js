@@ -1,10 +1,15 @@
 import React from 'react';
 import Styles from './SideBar.module.css';
+import ProfileImage from './ProfileImage/ProfileImage';
+import Title from './Title/Title';
 
 const sideBar = (props) => {
   return (
     <div className={[Styles.SideBar, props.className].join(' ')}>
-      <h1 className={Styles.title}>Side Bar</h1>
+    
+      <ProfileImage className={Styles.ProfileImage}/>
+      <Title/>
+
     </div>
   );
 }

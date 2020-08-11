@@ -1,4 +1,13 @@
 .SideBar {
-    background-color: black;
-    color: white;
+    left: 0;
+    height: 100%;
+    position: fixed;
+    display: block;
+    background-color: rgb(27, 27, 27);
 }
+
+.ProfileImage {
+    width: 90%;
+    margin: auto;
+}
+
