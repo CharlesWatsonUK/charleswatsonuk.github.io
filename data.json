@@ -50,23 +50,24 @@
     "skills": {
         "levels": [
             {
-                "title": "Proficient",
-                "subTitle": "2+ years industry experience",
+                "title": "Practiced",
+                "subTitle": "1-2 years industry experience",
                 "skills": [
                     "Java",
                     "Spring",
-                    "Git"
+                    "Git",
+					"REST",
+					"SQL"
                 ]
             },
             {
-                "title": "Knowledgeable",
+                "title": "Familiar",
                 "subTitle": "Some industry experience and use in personal projects",
                 "skills": [
                     "JavaScript (Client-Side)",
+					"HTML & CSS",
                     "React",
-                    "Angular",
-                    "Python (Machine Learning)",
-                    "SQL"
+                    "Python (Machine Learning)"
                 ]
             },
             {
