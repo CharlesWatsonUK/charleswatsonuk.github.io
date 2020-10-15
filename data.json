@@ -1,0 +1,84 @@
+{
+    "aboutMe": {
+        "bioShort": "The future of technology is exciting!",
+        "bioLong": "I'm a motivated engineer who loves to solve problems with software. My industry experience is primarily back-end Java development. I also have some front-end JavaScript and Python Machine Learning experience. "
+    },
+    "employment": [
+        {
+            "employer": "Booking.com",
+            "title": "Graduate Software Engineer",
+            "startDate": "September 2019",
+            "endDate": "Present",
+            "skills": [
+                "Java",
+                "Spring",
+                "Docker",
+                "Jira",
+                "Spock",
+                "Groovy"
+            ],
+            "imageUrl": "./images/booking.png"
+        },
+        {
+            "employer": "Nissan Motor Corporation",
+            "title": "Student Software Engineer",
+            "startDate": "June 2017",
+            "endDate": "July 2018",
+            "skills": [
+                "Java",
+                "Spring",
+                "JavaScript",
+                "Angular",
+                "Python",
+                "JSP",
+                "XSLT",
+                "Jira"
+            ],
+            "imageUrl": "./images/nissan.png"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Loughborough University",
+            "degree": "Computer Science (BSc Hons)",
+            "grade": "1st Class Honours",
+            "startDate": "September 2015",
+            "endDate": "June 2019",
+            "imageUrl": "./images/uni.png"
+        }
+    ],
+    "skills": {
+        "levels": [
+            {
+                "title": "Proficient",
+                "subTitle": "2+ years industry experience",
+                "skills": [
+                    "Java",
+                    "Spring",
+                    "Git"
+                ]
+            },
+            {
+                "title": "Knowledgeable",
+                "subTitle": "Some industry experience and use in personal projects",
+                "skills": [
+                    "JavaScript (Client-Side)",
+                    "React",
+                    "Angular",
+                    "Python (Machine Learning)",
+                    "SQL"
+                ]
+            },
+            {
+                "title": "Areas to grow!",
+                "subTitle": "Skills I would like to gain experience in",
+                "skills": [
+                    "JavaScript (Server Side)",
+                    "Functional First Languages",
+                    "DevOps and Infrastructure",
+                    "Big Data"
+                ] 
+            }
+        ]
+    }
+}
