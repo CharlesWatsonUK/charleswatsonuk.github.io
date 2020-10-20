@@ -21,7 +21,7 @@
         },
         {
             "employer": "Nissan Motor Corporation",
-            "title": "Student Software Engineer",
+            "title": "Software Engineering Placement",
             "startDate": "June 2017",
             "endDate": "July 2018",
             "skills": [
@@ -63,7 +63,7 @@
                 "title": "Familiar",
                 "subTitle": "Some industry experience and use in personal projects",
                 "skills": [
-                    "JavaScript (Client-Side)",
+                    "JavaScript (client-side)",
 					"HTML & CSS",
                     "React",
                     "Python (Machine Learning)"
@@ -73,7 +73,7 @@
                 "title": "Areas to grow!",
                 "subTitle": "Skills I would like to gain experience in",
                 "skills": [
-                    "JavaScript (Server Side)",
+                    "JavaScript (server-side)",
                     "Functional First Languages",
                     "DevOps and Infrastructure",
                     "Big Data"
